@@ -60,7 +60,8 @@ body {
 }
 
 .container__imagem {
-    margin: 1em 0 2em 0;
+    margin-left:500px;
+    height: 300px;
 }
 
 .container__caixa {
